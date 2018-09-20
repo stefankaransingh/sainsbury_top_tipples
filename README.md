@@ -1,6 +1,7 @@
 # Sainsbury's Top Tipples API
 
 <img src='cover.png' />
+
 ### Introduction
 Quicly hacked up a REST API, which parses Sainsbury's top [tipples page](https://www.sainsburys.co.uk/shop/gb/groceries/find-great-offers/top-tipple) behind the scences and returns back data with regards to the item's name, price and the amount you save on the given offer.
 
